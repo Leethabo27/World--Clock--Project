@@ -1,0 +1,94 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #010102;
+    border-bottom: 2px solid #0a054a;
+}
+
+header h1 {
+    color: #ffffff;
+}
+
+.github-link {
+    color: #5154f7;
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.location-selector {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#location-select {
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #04042a;
+    border: 1px solid #080002;
+    border-radius: 5px;
+}
+
+.time-display {
+    display: grid;
+    gap: 20px;
+}
+
+.city {
+    background-color: #00000b;
+    background: url('galaxy.png') no-repeat center;
+    background-size: cover;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.city h2 {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.city .time {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city .date {
+    color: #aaa;
+    font-size: 14px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #0c0c0c;
+    border-top: 2px solid #fefefe;
+    font-size: 14px;
+}
+.homepage-link {
+    text-decoration: none;
+    color: #052992;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.homepage-link:hover {
+    color: #03041d;
+}
