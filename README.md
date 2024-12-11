@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -57,7 +58,7 @@
         </div>
         <div>
           <a
-            href="https://leethabo27.github.io/World-Clock-Project/"
+            href="https://leethabo27.github.io/World--Clock--Project/"
             class="homepage-link"
             target="_blank"
             >Back to Homepage</a
@@ -74,7 +75,7 @@
           >
           and is open-sourced on
           <a
-            href="https://leethabo27.github.io/World-Clock-Project/"
+            href="https://leethabo27.github.io/World--Clock--Project/"
             target="_blank"
           >
             GitHub </a
